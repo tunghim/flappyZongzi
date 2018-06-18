@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/flappyZongzi/flappyZongzi",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#45abf9",
+    "navigationBarTitleText": "端午节安康",
+    "navigationBarTextStyle":"#fff"
+  }
+}
